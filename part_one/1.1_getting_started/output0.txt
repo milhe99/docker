@@ -1,0 +1,4 @@
+CONTAINER ID   IMAGE     COMMAND                  CREATED              STATUS                      PORTS     NAMES
+568079ca3068   nats      "/nats-server --conf…"   About a minute ago   Exited (1) 25 seconds ago             nostalgic_hawking
+2725f29783e0   httpd     "httpd-foreground"       About a minute ago   Exited (0) 39 seconds ago             gifted_knuth
+d42406554a36   nginx     "/docker-entrypoint.…"   2 minutes ago        Up 2 minutes                80/tcp    youthful_noyce
