@@ -1,0 +1,1 @@
+1 $ docker run -v C:/Users/OMISTAJA/Documents/AYTKT21025en/part_one/1.9_volumes/log.txt:/usr/src/app/text.log devopsdockeruh/simple-web-service
