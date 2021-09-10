@@ -1,0 +1,4 @@
+1 $ docker build . -t hellobe
+1 $ docker run -p 8080:8080 hellobe
+1 $ docker build . -t hellofe
+1 $ docker run -p 5000:5000 hellofe

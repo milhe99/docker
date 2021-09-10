@@ -1,0 +1,2 @@
+1 $ docker build . -t hellofe
+1 $ docker run -p 5000:5000 hellofe
