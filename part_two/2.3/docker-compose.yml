@@ -1,0 +1,10 @@
+version: '3.5' 
+services: 
+    frontend: 
+      build: ./fe
+      ports:
+          - 5000:5000
+    backend: 
+      build: ./be
+      ports:
+          - 8080:8080
